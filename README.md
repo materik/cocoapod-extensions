@@ -10,3 +10,8 @@ pod 'Extensions/NSAttributedString'
 pod 'Extensions/String'
 pod 'Extensions/TimeInterval'
 ```
+
+# Contribution
+
+Please make a pull request with your own favorite extensions.
+

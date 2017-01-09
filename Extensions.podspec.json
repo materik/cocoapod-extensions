@@ -24,6 +24,10 @@
     {
       "name": "Collection",
       "source_files": "CollectionExtension.swift"
+    },
+    {
+      "name": "TimeInterval",
+      "source_files": "TimeIntervalExtension.swift"
     }
   ]
 }

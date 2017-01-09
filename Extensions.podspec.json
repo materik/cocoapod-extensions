@@ -26,6 +26,14 @@
       "source_files": "CollectionExtension.swift"
     },
     {
+      "name": "NSAttributedString",
+      "source_files": "NSAttributedStringExtension.swift"
+    },
+    {
+      "name": "String",
+      "source_files": "StringExtension.swift"
+    },
+    {
       "name": "TimeInterval",
       "source_files": "TimeIntervalExtension.swift"
     }

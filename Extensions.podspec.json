@@ -1,7 +1,7 @@
 {
-  "name": "Extension",
+  "name": "Extensions",
   "version": "0.1.0",
-  "homepage": "https://github.com/materik/extension.git",
+  "homepage": "https://github.com/materik/extensions.git",
   "summary": "Collection of extensions",
   "license": {
     "type": "MIT",
@@ -14,7 +14,7 @@
     "ios": "10.0"
   },
   "source": {
-    "git": "https://github.com/materik/extension.git",
+    "git": "https://github.com/materik/extensions.git",
     "tag": "0.1.0"
   },
   "exclude_files": [
